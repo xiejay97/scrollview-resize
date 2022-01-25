@@ -37,7 +37,6 @@
   "homepage": "https://github.com/xiejay97/scrollview-resize#readme",
   "files": [
     "dist",
-    "src",
     "CHANGELOG.md",
     "LICENSE",
     "package.json",
