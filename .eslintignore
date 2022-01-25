@@ -1,0 +1,9 @@
+# compiled output
+dist
+coverage
+
+# dependencies
+node_modules
+
+# yarn
+.yarn
