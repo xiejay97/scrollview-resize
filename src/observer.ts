@@ -52,7 +52,7 @@ export class SVResizeObserver {
   constructor(private callback: SVResizeCallback) {}
 
   /**
-   * Observing the specified `Element`
+   * Observing the specified `Element`.
    *
    * @param target - A reference to an `Element` to be observed.
    */

@@ -36,7 +36,7 @@ const observer = new SVResizeObserver(() => {
   console.log('Scroll size changed');
 });
 
-resizeObserver.observe(el);
+observer.observe(el);
 ```
 
 ## License

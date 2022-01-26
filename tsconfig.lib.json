@@ -3,9 +3,8 @@
   "compilerOptions": {
     "rootDir": "./src",
     "outDir": "./dist",
-    "sourceMap": false,
     "declaration": true,
-    "declarationMap": false,
+    "sourceMap": false,
     "types": []
   },
   "files": ["src/index.ts"],
