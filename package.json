@@ -1,6 +1,6 @@
 {
   "name": "scrollview-resize",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Report changes to the dimensions of an Element's scrollWidth and scrollHeight",
   "keywords": [
     "scrollWidth",
